@@ -1,2 +1,2 @@
-# Regras-L-gicas-com-JavaScript
+# Regras Lógicas com JavaScript
 Testes de Lógica.
